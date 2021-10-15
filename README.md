@@ -1,4 +1,4 @@
-# Empathy Take-Home
+# SPOTIFY DEMO
 
 1. [General info](#general-info)
 2. [Technologies](#technologies)
