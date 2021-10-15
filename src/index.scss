@@ -1,0 +1,18 @@
+@import "_variables";
+
+@font-face {
+  font-family: 'Montserrat-regular';
+  font-style: normal;
+  src: url(../assets/fonts/Montserrat-Regular.ttf) format('truetype');
+}
+
+html,
+body {
+  margin: 0;
+  height: 100%;
+  width: 100%;
+  background: $background;
+  color: $textPrimary;
+  text-rendering: optimizeLegibility;
+  font-family: Montserrat-regular, serif, serif;
+}
