@@ -33,8 +33,8 @@ Set up you client id and client secret environment variables, replace the defaul
 To run this project, clone and install it locally using npm:
 
 ```
-$ git clone https://github.com/empathyco/people-takehome-empathyx-vue-alicia-fernandez.git
-$ cd /people-takehome-empathyx-vue-alicia-fernandez
+$ git clone https://github.com/aliciafdezrov/spotify-demo.git
+$ cd /spotify-demo
 $ npm install
 ```
 
